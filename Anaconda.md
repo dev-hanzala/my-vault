@@ -1,0 +1,1 @@
+Anaconda is a [[FOSS]] [[Python]] distribution made for machine learning and data science applications. It includes thousands of libraries for those types of workflows. 

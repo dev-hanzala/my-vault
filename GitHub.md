@@ -1,0 +1,1 @@
+GitHub is the most popular [[GIT]] hosting platform. It is free for personal use with limited features. It allows users to publish open source code publicly where any one can view, fork and make contributions to their code. 

@@ -1,0 +1,1 @@
+Used to make a typescript source transpile on every time the file is saved.

@@ -1,0 +1,1 @@
+JavaScript is a dynamically typed, interpreted language used to make interactive websites and apps. It is an interpreted language which means code is executed line by line. It's statically typed nature means that types are determined at runtime,

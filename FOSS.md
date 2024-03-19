@@ -1,0 +1,1 @@
+FOSS stands for Free and Open Source Software. It is a term describing software which is free for anyone to view, modify or redistribute.

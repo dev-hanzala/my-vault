@@ -1,0 +1,2 @@
+GIT is a [[FOSS]] source control tool. It is used to manage changes to a codebase over time. Multiple people can work on a single codebase using git and make changes on their own machines and commit them to the codebase. GIT supports branching meaning development can be split across multiple branches like beta or dev branches which can later be merged with the main branch
+GIT also supports remote repositories where code can be pushed after a developer has decided it is in a satisfactory state. The most popular GIT remote platform is GitHub.

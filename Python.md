@@ -1,0 +1,1 @@
+Python is an [[Object Oriented]] language. It's an interpreted language meaning code is translated into machine language line by line during execution. It's commonly used in data science but can also be used for pretty much any other use case as it is  a general purpose language.

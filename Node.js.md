@@ -1,0 +1,1 @@
+Node.js is an environment  used to run and test JavaScript code outside of a web browser. It has many tools and features which make it easy to develop with [[JavaScript]].
