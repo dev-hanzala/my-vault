@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0711653d149dc9b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaScript.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "545555f45f249da6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python.md",
+                "file": "Course.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript.md",
+                "file": "Course.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript.md",
+                "file": "Course.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript.md"
+                "file": "Course.md"
               }
             }
           },
@@ -168,21 +156,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0711653d149dc9b7",
+  "active": "545555f45f249da6",
   "lastOpenFiles": [
-    "README.md",
-    "Finances.md",
-    "HTML.canvas",
-    "Scaling.md",
-    "Python.md",
     "Watch Mode.md",
-    "TypeScript.md",
     "Camel Case.md",
+    "HTML.canvas",
+    "Python.md",
+    "Scaling.md",
+    "Finances (April 2024).md",
+    "Finances (March 2024).md",
+    "JavaScript.md",
+    "README.md",
+    "TypeScript.md",
     "NPM.md",
     "Anaconda.md",
     "Course.md",
     "GitHub.md",
-    "JavaScript.md",
     "Node.js.md",
     "FOSS.md",
     "GIT.md",
